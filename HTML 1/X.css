@@ -1,0 +1,21 @@
+@import"nullstyle"
+body {
+    margin: 0 auto; 
+    max-width: 70%
+} 
+p{
+    color: rgb(0, 255, 225);
+}
+figure {
+    clear: right;
+    float: right;
+}
+
+h1 h2 {
+font-size: 32px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+} 
+h3 {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+} 
+
